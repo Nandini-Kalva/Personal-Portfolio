@@ -11,7 +11,7 @@ const Projects = () => {
         {/* Text Section */}
         <div className="md:w-1/2">
           <h1 className="text-2xl text-pink-500 mb-4">GROW MY THERAPY</h1>
-          <p className="mb-4 text-xl">
+          <p className="mb-4 ">
             ✔️ A responsive frontend clone of a therapy platform built using
             React, inspired by modern web design templates.
             <br />
@@ -20,13 +20,13 @@ const Projects = () => {
             attention to spacing, typography, and responsiveness.
             <br />
           </p>
-          <p className="mb-2 text-xl">
+          <p className="mb-2 ">
             ✔️ Tech Stack: React • Tailwind CSS • Responsive Design
           </p>
-          <p className="text-xl mb-4">
+          <p className="mb-2">
             ✔️ Git link : https://github.com/Nandini-Kalva/grow-my-therapy-homepage <br />
           </p>
-          <p  className="text-xl" > ✔️ Live link :https://grow-my-therapy-homepage.vercel.app/</p>
+          <p> ✔️ Live link :https://grow-my-therapy-homepage.vercel.app/</p>
         </div>
 
         {/* Image Section */}
@@ -48,7 +48,7 @@ const Projects = () => {
         </div>
         <div className="md:w-1/2">
           <h1 className="text-2xl text-pink-500 mb-4">Finance Dashboard</h1>
-          <p className="mb-2 text-xl">
+          <p className="mb-4 ">
             ✔️ An interactive finance dashboard that visualizes income, expenses,
             and spending patterns using charts.
             <br /> ✔️ The application includes dynamic data handling, role-based UI
@@ -56,10 +56,10 @@ const Projects = () => {
             data-driven interfaces with a focus on usability and clarity.
           </p>
             <br />
-          <p className="mb-2 text-xl text-xl">
+          <p className="mb-2  ">
             ✔️ React • Tailwind CSS • Chart.js 
           </p>
-          <p className="text-xl mb-4">
+          <p className="text-xl mb-2">
             ✔️ Git link : https://github.com/Nandini-Kalva/finance-dashboard <br />
           </p>
           <p className="text-xl">✔️ Live link : https://finance-dashboard-chi-seven.vercel.app/</p>
