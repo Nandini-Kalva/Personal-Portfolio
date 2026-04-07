@@ -25,8 +25,8 @@ const Projects = () => {
             ✔️ Tech Stack: React • Tailwind CSS • Responsive Design
           </p>
           <p className="text-xl">
-            ✔️ Git link : <br />
-            ✔️ Live link :
+            ✔️ Git link : https://github.com/Nandini-Kalva/grow-my-therapy-homepage <br />
+            ✔️ Live link :https://grow-my-therapy-homepage.vercel.app/
           </p>
         </div>
 
@@ -61,8 +61,8 @@ const Projects = () => {
             ✔️ React • Tailwind CSS • Chart.js 
           </p>
           <p className="text-xl">
-            ✔️ Git link : <br />
-            ✔️ Live link :
+            ✔️ Git link : https://github.com/Nandini-Kalva/finance-dashboard <br />
+            ✔️ Live link : https://finance-dashboard-chi-seven.vercel.app/
           </p>
         </div>
       </div>
