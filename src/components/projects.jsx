@@ -59,10 +59,10 @@ const Projects = () => {
           <p className="mb-2  ">
             ✔️ React • Tailwind CSS • Chart.js 
           </p>
-          <p className="text-xl mb-2">
+          <p className=" mb-2">
             ✔️ Git link : https://github.com/Nandini-Kalva/finance-dashboard <br />
           </p>
-          <p className="text-xl">✔️ Live link : https://finance-dashboard-chi-seven.vercel.app/</p>
+          <p >✔️ Live link : https://finance-dashboard-chi-seven.vercel.app/</p>
         </div>
       </div>
     </section>
