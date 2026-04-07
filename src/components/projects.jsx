@@ -62,7 +62,7 @@ const Projects = () => {
           <p className="text-xl mb-4">
             ✔️ Git link : https://github.com/Nandini-Kalva/finance-dashboard <br />
           </p>
-          <p className="text-xl>✔️ Live link : https://finance-dashboard-chi-seven.vercel.app/</p>
+          <p className="text-xl">✔️ Live link : https://finance-dashboard-chi-seven.vercel.app/</p>
         </div>
       </div>
     </section>
